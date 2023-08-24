@@ -1,1 +1,1 @@
-
+gunicorn analytics:app
